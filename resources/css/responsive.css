@@ -1,0 +1,8 @@
+@media only screen and (max-width: 1024x) {
+    .main_nav {
+        display: none;
+    }
+    html{
+        font-size: 30.5%;
+    }
+}
